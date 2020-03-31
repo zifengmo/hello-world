@@ -9,7 +9,7 @@
         <h3>烟波虽小，一叶障目</h3>
         <ul>
             <li><a href="https://music.163.com/#/user/home?id=107884665" target="_blank" rel="noopener">如果有来生</a></li>
-            <li><a href="https://music.163.com/#/my/m/music/playlist?id=2676421808" target="_blank" rel="noopener">不负如来不负卿</a></li>
+            <li><a href="https://music.163.com/#/song?id=707720" target="_blank" rel="noopener">不负如来不负卿</a></li>
         </ul>
         <h3>如果有电脑</h3>
         <ul>
@@ -17,7 +17,7 @@
         </ul>
         <h3>如果没电脑</h3>
         <ul>
-            <li><a href="http://3country.xyz" target="_blank" rel="noopener">等我新功能</a></li>
+            <li><a href="http://3country.xyz/music/qq" target="_blank" rel="noopener">随机听听</a></li>
         </ul>
     </div>
 </template>
