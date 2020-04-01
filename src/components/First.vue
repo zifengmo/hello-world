@@ -19,6 +19,9 @@
         <ul>
             <li><a href="http://3country.xyz/music/qq" target="_blank" rel="noopener">随机听听</a></li>
         </ul>
+        <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=707720&auto=1&height=66">
+
+        </iframe>
     </div>
 </template>
 
