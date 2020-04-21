@@ -6,12 +6,15 @@
 </template>
 
 <script>
-import HelloWorld from './components/First.vue'
+import HelloWorld from './components/First.vue';
+import PP from './components/Post.vue';
+
 
 export default {
   name: 'app',
   components: {
-    HelloWorld
+    HelloWorld,
+      PP
   }
 }
 </script>
