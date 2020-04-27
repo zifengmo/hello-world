@@ -48,4 +48,9 @@
     a {
         color: #42b983;
     }
+    img{
+        display: block;
+    height: auto;
+        max-width: 100%;
+    }
 </style>
