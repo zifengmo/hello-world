@@ -2,9 +2,9 @@
     <div class="hello">
         <h1>{{ msg }}</h1>
         <p>
-            民之从事，常于几成而败之，慎终如始，则无败事
+            想你，是最美好的心事
             <br>
-            <a href="https://www.google.com" target="_blank" rel="noopener">Google 一下</a>.
+<!--            <a href="https://www.google.com" target="_blank" rel="noopener">Google 一下</a>.-->
         </p>
         <h3>烟波虽小，一叶障目</h3>
         <ul>
@@ -19,9 +19,7 @@
         <ul>
             <li><a href="http://3country.xyz/music/qq" target="_blank" rel="noopener">随机听听</a></li>
         </ul>
-        <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=707720&auto=1&height=66">
-
-        </iframe>
+        <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=820356&auto=1&height=66"></iframe>
     </div>
 </template>
 
