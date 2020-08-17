@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/WechatIMG14.jpeg">
+    <img alt="Vue logo" src="./assets/WechatIMG22.jpeg">
     <HelloWorld msg="幸得余生，与你相拥"/>
   </div>
 </template>

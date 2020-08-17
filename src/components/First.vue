@@ -9,7 +9,7 @@
         <h3>烟波虽小，一叶障目</h3>
         <ul>
             <li><a href="https://music.163.com/#/user/home?id=107884665" target="_blank" rel="noopener">江畔何人初见月</a></li>
-            <li><a href="https://music.163.com/#/user/home?id=383139403" target="_blank" rel="noopener">江月何年初照人</a></li>
+            <li><a href="https://i.y.qq.com/n2/m/share/details/taoge.html?platform=11&appshare=android_qq&appversion=10020507&hosteuin=oKvF7e4z7eosoc**&id=3978042607&ADTAG=wxfshare&from=singlemessage" target="_blank" rel="noopener">江月何年初照人</a></li>
         </ul>
         <h3>如果有电脑</h3>
         <ul>
